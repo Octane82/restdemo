@@ -1,0 +1,4 @@
+https://github.com/typicode/demo/blob/master/db.json
+my-json-server.typicode.com/typicode/demo/posts/1
+
+http://my-json-server.typicode.com/Octane82/restdemo/comments/2
